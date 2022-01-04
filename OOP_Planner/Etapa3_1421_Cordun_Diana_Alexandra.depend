@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1620404716 source:c:\users\pc\desktop\new folder\etapa3_1421_cordun_diana_alexandra\despre_an.out.c
+
+1620459093 source:c:\users\pc\desktop\new folder\etapa3_1421_cordun_diana_alexandra\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+	<vector>
+	<list>
+	<iterator>
+	<map>
+	<set>
+	<fstream>
+	<stdlib.h>
+
